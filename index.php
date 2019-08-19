@@ -16,12 +16,12 @@
                 height: 570px;
                 background: white;
                 border-radius: 3px; 
-				
+		
             }
             #liberar{
                 margin-left: 15px;
              }
-                 <img src="IMG_20150424_153207.JPG">                            
+                                             
         </style>
     </head>
 

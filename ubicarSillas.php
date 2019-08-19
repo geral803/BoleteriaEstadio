@@ -9,6 +9,7 @@
                 color: #404040;
                 background: #0ca3d2;
                 text-align: center;
+		background-image:url("fon.jpeg");
             }
             #table2{
                 margin-left: 50px;
