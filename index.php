@@ -5,6 +5,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Boletería Estadio Inteligente</title>
+		
         <style>
 			
             
@@ -26,7 +27,9 @@
     </head>
 
     <body >
-
+	<div id="cabecera">
+	Cabecera
+	</div>
         <?php
         /* Desarrollado por:Geraldin-Isabel Krisstina-Laura Isabel 
          * Programa: Desarrollo Web con php
