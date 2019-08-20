@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Boletería Estadio Inteligente</title>
+        <title>Boletería Estadio</title>
         <style>
 			
             
@@ -34,7 +34,8 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-        <h3 style="text-align: center">Boletería Estadio Inteligente </h3>
+        <h3 style="text-align: center">Boletería Estadio Wembley, Londres,Inglanterra
+ </h3>
         <table>
             <?php
            include_once "ubicarSillas.php";
