@@ -41,7 +41,7 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-        <h3 style="text-align: center">Boletería Estadio Wembley, Londres,Inglanterra
+        <h3 style="text-align: center">Maracaná, Rio de Janeiro, Brasil
  </h3>
         <table>
             <?php
