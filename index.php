@@ -4,12 +4,8 @@
 <html>
     <head>
         <meta charset="UTF-8">
-<<<<<<< HEAD
-        <title>Boletería Estadio</title>
-=======
         <title>Boletería Estadio Inteligente</title>
 		
->>>>>>> cabecera
         <style>
 			
             
@@ -40,12 +36,8 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-<<<<<<< HEAD
         <h3 style="text-align: center">Maracaná, Rio de Janeiro, Brasil
  </h3>
-=======
-        <h3 style="text-align: center">Boletería Estadio La Bombonera </h3>
->>>>>>> cabecera
         <table>
             <?php
            include_once "ubicarSillas.php";
