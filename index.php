@@ -37,7 +37,7 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-        <h3 style="text-align: center">Boletería Estadio Inteligente </h3>
+        <h3 style="text-align: center">Boletería Estadio La Bombonera </h3>
         <table>
             <?php
            include_once "ubicarSillas.php";
