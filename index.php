@@ -4,7 +4,12 @@
 <html>
     <head>
         <meta charset="UTF-8">
+<<<<<<< HEAD
         <title>Boletería Estadio</title>
+=======
+        <title>Boletería Estadio Inteligente</title>
+		
+>>>>>>> cabecera
         <style>
 			
             
@@ -26,7 +31,9 @@
     </head>
 
     <body >
-
+	<div id="cabecera">
+	 Fuerza, tu puedes hacerlo. yeah
+	</div>
         <?php
         /* Desarrollado por:Geraldin-Isabel Krisstina-Laura Isabel 
          * Programa: Desarrollo Web con php
