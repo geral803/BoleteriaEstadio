@@ -41,8 +41,12 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
+<<<<<<< HEAD
         <h3 style="text-align: center">Maracaná, Rio de Janeiro, Brasil
  </h3>
+=======
+        <h3 style="text-align: center">Boletería Estadio La Bombonera </h3>
+>>>>>>> cabecera
         <table>
             <?php
            include_once "ubicarSillas.php";
