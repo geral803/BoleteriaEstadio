@@ -27,8 +27,7 @@
     </head>
 
     <body >
-	<div id="cabecera">
-	 Fuerza, tu puedes hacerlo. yeah
+	
 	</div>
         <?php
         /* Desarrollado por:Geraldin-Isabel Krisstina-Laura Isabel 
