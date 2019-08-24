@@ -36,8 +36,7 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-        <h3 style="text-align: center">Maracaná, Rio de Janeiro, Brasil
- </h3>
+        <h3 style="text-align: center">Pascual Guerrero, Cali
         <table>
             <?php
            include_once "ubicarSillas.php";
