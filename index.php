@@ -36,9 +36,9 @@
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-        <h3 style="text-align: center">Pascual Guerrero, Cali
-        <table>
-            <?php
+        <h3 style="text-align: center">Estadio Pascual Guerrero, Cali
+        <table><br><br>
+           <?php
            include_once "ubicarSillas.php";
            include_once "estadoPuesto.php"; 
            //Se verifica Si se envió la información ingresada por el usuario
