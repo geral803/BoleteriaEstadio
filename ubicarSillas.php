@@ -6,19 +6,22 @@
         <style>
             body {
                 font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
-                color: #404040;
+            	
                 background: #0ca3d2;
+				background-image:url("fon.jpeg");
                 text-align: center;
-		background-image:url("fon.jpeg");
+				
             }
             #table2{
                 margin-left: 50px;
                 width: 200px;
+				
             }
             
         </style>
     </head>
     <body>
+	 
         <?php
 
         function UbicarSillas($listSillas){

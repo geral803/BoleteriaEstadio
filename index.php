@@ -1,11 +1,13 @@
-
 <!DOCTYPE html>
-
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
     <head>
         <meta charset="UTF-8">
         <title>Boletería Estadio Inteligente</title>
-		
         <style>
 			
             
@@ -17,28 +19,27 @@
                 height: 570px;
                 background: white;
                 border-radius: 3px; 
-		
+				
             }
             #liberar{
                 margin-left: 15px;
              }
-                                             
+              
         </style>
     </head>
 
     <body >
-	
-	</div>
+
         <?php
-        /* Desarrollado por:Geraldin-Isabel Krisstina-Laura Isabel 
+        /* Desarrollado por: Isabel Krisstina-Laura Isabel 
          * Programa: Desarrollo Web con php
          * Clase: Informatica I
          * Estadio inteligente
          */?>
     <div class="rectangulo">
-        <h3 style="text-align: center">Estadio Pascual Guerrero, Cali
-        <table><br><br>
-           <?php
+        <h3 style="text-align: center">Boletería Estadio Inteligente </h3>
+        <table>
+            <?php
            include_once "ubicarSillas.php";
            include_once "estadoPuesto.php"; 
            //Se verifica Si se envió la información ingresada por el usuario
